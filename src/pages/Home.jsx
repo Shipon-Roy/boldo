@@ -4,7 +4,7 @@ import Customers from "../components/home/Customers";
 import Reviews from "../components/home/Reviews";
 import ServiceAbout from "../components/home/ServiceAbout";
 import Services from "../components/home/Services";
-import Banner from "../components/home/banner";
+import Banner from "../components/home/Banner";
 
 const Home = () => {
     return (
