@@ -104,6 +104,11 @@ const Blogs = () => {
           </div>
         </div>
       </div>
+      <div className="text-center">
+      <button className="border-[#0A2640] text-[#0A2640] w-[210px] h-[60px] rounded-[56px] border-[2px] font-[Open Sans] font-[700] text-[20px] leading-[28px] mr-5">
+          Load more
+          </button>
+      </div>
     </div>
   );
 };
